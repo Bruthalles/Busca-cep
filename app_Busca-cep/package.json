@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-webview": "^13.10.2",
+    "sjcl": "^1.0.8",
+    "expo": "^51.0.0"
+  }
+}
